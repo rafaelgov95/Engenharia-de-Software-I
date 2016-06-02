@@ -3,7 +3,7 @@
 
 # Engenharia de Software I - UFMS - Coxim/MS
  __Professor: José__ 
-### *Sumario* 
+### *Sumário* 
 * [RedMine](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
 * [Git](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/git/git.txt) 
 * __Documentacao de um Programa__
