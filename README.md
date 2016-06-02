@@ -5,10 +5,10 @@
  __Professor: José__ 
 ### *Sumario* 
 * [RedMine](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
-* [Git](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt) 
+* [Git](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/git/git.txt) 
 * __Documentacao de um Programa__
-  - Funcionalidades [https://]
-  - Funcionalidades nao Usual[https://]
+  - [Funcionalidades](https://google.com)
+  - [Funcionalidades nao Usual](https://google.com)
 
 
 ### Sites Das Tecnologias Aboradas
