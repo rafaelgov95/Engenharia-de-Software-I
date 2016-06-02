@@ -8,7 +8,7 @@ Professor:
 #José
 
 ## Sumario 
-* [RedMine] - []
+* [RedMine] - (https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
 * [Git] - awesome web-based text editor
 * [Documentacao de um Programa] - Markdown parser done right. Fast and easy to extend.
   - Funcionalidades
