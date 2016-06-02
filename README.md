@@ -4,18 +4,18 @@
 # Engenharia-de-Software-I
 
 Engenharia I - UFMS - Coxim/MS
-Professor:
-#José
 
-## Sumario 
-* [RedMine] - (https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
-* [Git] - awesome web-based text editor
+Professor:_José_
+
+### Sumario 
+* [RedMine](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
+* [Git] - 
 * [Documentacao de um Programa] - Markdown parser done right. Fast and easy to extend.
   - Funcionalidades
   - Funcionalidades nao Usual
 
 
-## Tecnologias Utilizadas Sites!
+### Tecnologias Utilizadas Sites!
 * [RedMine] - HTML enhanced for web apps!
 * [Git] - awesome web-based text editor
 * [markdown-it] - Markdown parser done right. Fast and easy to extend.
