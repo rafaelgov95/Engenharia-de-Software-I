@@ -1,0 +1,5 @@
+O texto a seguir é um resumo grosseiro do BitBucket. Para uma compreensão mais apurada, vide as referências citadas no começo.
+
+O BitBucket é um sistema de controle de versão, assim como é o CVS ou GIT. A diferença do BitBucket é o fato de ser um sistema de controle de versão distribuído. No BitBucket cada desenvolvedor tem um servidor, ou melhor, um repositório completo disponível em sua máquina local.
+
+Melhor que pode ser privado!.
