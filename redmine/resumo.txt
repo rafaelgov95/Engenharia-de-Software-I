@@ -1,0 +1,7 @@
+Redmine é um software livre, gerenciador de projetos baseados na web e ferramenta de gerenciamento de bugs. Ele contém calendário e gráficos de Gantt para ajudar na representação visual dos projetos e seus deadlines (prazos de entrega). Ele pode também trabalhar com múltiplos projetos.
+
+O design do Redmine foi influenciado pelo Trac, um pacote de software semelhante.
+
+O Redmine é escrito usando o framework Ruby on Rails. Ele é multiplataforma e suporta diversos Banco de Dados.
+
+Além de ser um software multilíngue, também possibilita o uso integrado com vários repositórios tais como Svn, Git, Mercurial, Darcs, Cvs e Bazaar.
