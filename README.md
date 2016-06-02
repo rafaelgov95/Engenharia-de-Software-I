@@ -1,17 +1,12 @@
 
 ![Engenharia](http://2.bp.blogspot.com/-UyhxrVeZylI/UXxfE2AwH9I/AAAAAAAAASw/O7ekyc-P51s/s1600/engenharia%2Bde%2Bsoftware.png)
 
-# Engenharia-de-Software-I
-
-
-Engenharia I - UFMS - Coxim/MS
-
-Professor: _José_ 
-
-### Sumario 
+# Engenharia de Software I - UFMS - Coxim/MS
+ __Professor: José__ 
+### *Sumario* 
 * [RedMine](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
 * [Git](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt) 
-* [Documentacao de um Programa]
+* __Documentacao de um Programa__
   - Funcionalidades [https://]
   - Funcionalidades nao Usual[https://]
 
