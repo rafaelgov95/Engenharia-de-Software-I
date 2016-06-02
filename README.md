@@ -1,5 +1,5 @@
 
-![Engenharia](http://1.bp.blogspot.com/-zOLLgwYlKwo/VVQ6y5Ep6rI/AAAAAAAALhg/E1naooDSlmE/s320/strategy.jpg)
+![Engenharia](http://2.bp.blogspot.com/-UyhxrVeZylI/UXxfE2AwH9I/AAAAAAAAASw/O7ekyc-P51s/s1600/engenharia%2Bde%2Bsoftware.png)
 
 # Engenharia-de-Software-I
 
@@ -9,25 +9,18 @@ Professor:_José_
 
 ### Sumario 
 * [RedMine](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt)
-* [Git] - 
-* [Documentacao de um Programa] - Markdown parser done right. Fast and easy to extend.
+* [Git](https://github.com/rafaelgov95/Engenharia-de-Software-I/blob/master/redmine/resumo.txt) 
+* [Documentacao de um Programa]
   - Funcionalidades
   - Funcionalidades nao Usual
 
 
-### Tecnologias Utilizadas Sites!
-* [RedMine] - HTML enhanced for web apps!
-* [Git] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [keymaster.js] - awesome keyboard handler lib by [@thomasfuchs]
-* [jQuery] - duh
+### Sites Das Tecnologias Aboradas
+* [RedMine](http://demo.redmine.org/)
+* [Git](github.com)
 
 ### Documentação
-* Todos Temas abor
+* Todos Temas abordados em Engenharia I.
 
 ### Licença
 * UFMS-Coxim/MS
