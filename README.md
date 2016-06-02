@@ -11,7 +11,7 @@
   - [Funcionalidades nao Usual](https://google.com)
 
 
-### *Sites Das Tecnologias Aboradas*
+### *Sites Das Tecnologias Abordadas*
 * [RedMine](http://demo.redmine.org/)
 * [Git](github.com)
 
