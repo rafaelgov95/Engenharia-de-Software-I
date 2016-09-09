@@ -5,6 +5,7 @@
  */
 package teste_engenharia;
 
+import ufms.engenharia.exercicioCalculadora.Calculadora;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
