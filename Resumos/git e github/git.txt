@@ -1,0 +1,3 @@
+O texto a seguir é um resumo grosseiro do Git. Para uma compreensão mais apurada, vide as referências citadas no começo.
+
+O Git é um sistema de controle de versão, assim como é o CVS ou SVN. A diferença do Git é o fato de ser um sistema de controle de versão distribuído. Enquanto no CVS ou SVN temos apenas um servidor que centraliza o trabalho de diversos desenvolvedores, no Git, cada desenvolvedor tem um servidor, ou melhor, um repositório completo disponível em sua máquina local.
