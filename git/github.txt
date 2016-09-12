@@ -1,3 +1,0 @@
-O texto a seguir é um resumo grosseiro do Git. Para uma compreensão mais apurada, vide as referências citadas no começo.
-
-O Git é um sistema de controle de versão, assim como os demais "bitbucket", porem tem que pagar o modo privado.
